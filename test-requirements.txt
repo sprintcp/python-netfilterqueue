@@ -18,7 +18,7 @@ black==21.12b0
     # via -r test-requirements.in
 click==8.0.3
     # via black
-idna==3.3
+idna==3.7
     # via trio
 iniconfig==1.1.1
     # via pytest
